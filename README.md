@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## GAK2023
 
 This is a @tcstenungsund project!
