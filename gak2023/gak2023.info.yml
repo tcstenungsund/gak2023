@@ -1,13 +1,13 @@
-name: Bootstrap Barrio Subtheme
+name: GAK2023
 type: theme
-description: 'Basic structure for a Bootstrap Barrio SubTheme.'
+description: 'Ett subtheme för Göteborgs Astronomiska klubb'
 core: 8.x
 core_version_requirement: ^8 || ^9 || ^10
 base theme: bootstrap_barrio
 
 libraries:
-  - bootstrap_barrio_subtheme/bootstrap_cdn
-  - bootstrap_barrio_subtheme/global-styling
+  - gak2023/bootstrap_cdn
+  - gak2023/global-styling
 
 regions:
   top_header: 'Top header'
@@ -32,8 +32,3 @@ regions:
   footer_third: 'Footer third'
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
-
-# Information added by Drupal.org packaging script on 2023-01-19
-version: '5.5.9'
-project: 'bootstrap_barrio'
-datestamp: 1674098248
