@@ -16,3 +16,26 @@ inget avslutat denna veckan
 
 Att göra inför nästa lektion
 jobba vidare med det vi påbörjat!
+
+
+V.10
+
+Påböjat
+Börjat konstruera en ny logga, fortsatt arbete med färgschema, wireframes, moodboard.
+
+Gjort
+inget som blev helt klart
+
+Att göra
+göra klart loggan, färgschema, wireframes, moodboard, hitta stock-bilder, skapa ett bootstrap-tema, skapa ett pattern library, definera taxonomies.
+
+V.11
+
+Påbörjat
+stock-bilder
+
+Gjort
+Loggan är klar, 
+
+Att göra
+färgschema, wireframes, moodboards, skapa ett bootstrap-tema, definera taxonomies, pattern library
