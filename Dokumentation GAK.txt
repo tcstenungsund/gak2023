@@ -39,3 +39,14 @@ Loggan är klar,
 
 Att göra
 färgschema, wireframes, moodboards, skapa ett bootstrap-tema, definera taxonomies, pattern library
+
+V.12
+
+Påbörjat
+Pattern library, definera taxonomies
+
+Gjort
+Färgschema, bootstrap-tema, stock-bilder
+
+Att göra
+moodboards
