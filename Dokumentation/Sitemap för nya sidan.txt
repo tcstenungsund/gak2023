@@ -1,0 +1,35 @@
+Förslag på upplägget för innehållet på den nya sidan
+
+Startsida
+  Välkomnande och kort info med länk till deras tidning aurora
+  Kanske någon mer allmän info om
+  Teaser med senaste nyheter där titel och datum endast visas
+  Teaser med senaste event där titel och datum endast visas
+
+Bli medlem + Nybörjarsida = Utbildning sida
+  Info om att bli medlem med avgifter
+  Även en guide för nya medlemmar'
+
+Bildgalleri
+  Bilder from rymden med image content typen
+
+Händelser
+  Hem till content typen händelser där alla händelser visas i en paginerad lista.
+
+Observatoriet
+  Statisk sida med info om deras observatorium
+
+Historia
+  Statisk sida med klubbens historia
+
+Styrelsen
+  Alla i styrelsen med kontaktuppgifter
+
+Aurora
+  Bilder på deras tidskrift aurora
+
+Länkar
+  Meny med länkar till externa resurser
+  
+
+Kanske slå ihop Observatoriumet och Historia till en "Om" sida
