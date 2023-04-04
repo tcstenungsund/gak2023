@@ -50,3 +50,15 @@ Färgschema, bootstrap-tema, stock-bilder
 
 Att göra
 moodboards
+
+V.14
+
+Påbörjat
+Moodboard, skapa content types i drupal, flytatt block regions
+
+Gjort
+wireframes, småfix
+
+Att göra
+bestämma vilket färgschema vi ska använda
+färdigställa moodboard
