@@ -62,3 +62,21 @@ wireframes, småfix
 Att göra
 bestämma vilket färgschema vi ska använda
 färdigställa moodboard
+
+V.16
+pågörjat 
+användartester, definera taxonomies, pattern libery, bootstrap tema
+
+Att göra
+färdigställa moodboard
+
+
+
+
+
+
+
+
+
+
+
