@@ -3,6 +3,29 @@
  * Subtheme specific CSS.
  */
 
+html, body {
+	height: 100vh;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Makes the background blue underneath the footer if zommed out or on big screen */
+/*.dialog-off-canvas-main-canvas {
+	height: 100%;
+	background-color: #0000A6;
+}*/
+
+#main-wrapper {
+	min-height: 300px;
+	padding-top: 1rem;
+}
+/*
+.row {
+	margin-right: 0; Makes the website not scrollale sideways
+}*/
+
 /* Navbar styling */
 #block-gak2023-main-menu .nav-link {
 	color: white;
@@ -116,4 +139,20 @@ section.region-secondary-menu {
 
 .login-list {
 	margin-left: auto;
+}
+
+/* Homepage info section*/
+.info-div {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  /*height: 100vh*/
+}
+.div-image {
+  background-image: url("https://github.com/tcstenungsund/gak2023/blob/main/design/stockbilder/abstract-2797578_1280.jpg?raw=true");
+  flex: 50%;
+}
+
+.div-content {
+  flex: 50%;
 }

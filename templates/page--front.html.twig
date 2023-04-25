@@ -114,7 +114,7 @@
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-12 text-center">
-              <h1 class="fw-bold">GAK</h1>
+              <h1 class="fw-bold">Göteborgs Astronomiska Klubb</h1>
               <p class="fw-bold lead">Rymden! WOOOO</p>
             </div>
           </div>
@@ -139,12 +139,25 @@
         </div>
       {% endblock %}
     {% endif %}
+
     <div id="main-wrapper" class="layout-main-wrapper clearfix">
       {% block content %}
         <div id="main" class="{{ container }}">
           {{ page.breadcrumb }}
           <div class="row row-offcanvas row-offcanvas-left clearfix">
               <main{{ content_attributes }}>
+
+                <section class="intro section">
+                    <div class="info-div">
+                      <div class="div-image"></div>
+                      <div class="div-content"> {{ drupal_entity('block_content', 1) }} </div>
+                    </div>
+                    <div class="info-div">
+                      <div class="div-content"> {{ drupal_entity('block_content', 1) }} </div>
+                      <div class="div-image"></div>
+                    </div>
+                </section>
+
                 <section class="section">
                   <a id="main-content" tabindex="-1"></a>
                   {{ page.content }}
@@ -168,6 +181,7 @@
         </div>
       {% endblock %}
     </div>
+    
     {% if page.featured_bottom_first or page.featured_bottom_second or page.featured_bottom_third %}
       <div class="featured-bottom">
         <aside class="{{ container }} clearfix" role="complementary">
