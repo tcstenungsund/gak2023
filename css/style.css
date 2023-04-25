@@ -2,3 +2,157 @@
  * @file
  * Subtheme specific CSS.
  */
+
+html, body {
+	height: 100vh;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Makes the background blue underneath the footer if zommed out or on big screen */
+/*.dialog-off-canvas-main-canvas {
+	height: 100%;
+	background-color: #0000A6;
+}*/
+
+#main-wrapper {
+	min-height: 300px;
+	padding-top: 1rem;
+}
+/*
+.row {
+	margin-right: 0; Makes the website not scrollale sideways
+}*/
+
+/* Navbar styling */
+#block-gak2023-main-menu .nav-link {
+	color: white;
+  	white-space: nowrap;
+}
+
+#block-gak2023-main-menu .nav-link:hover {
+	color: #bbb;
+}
+
+#block-gak2023-main-menu ul {
+ 	flex-flow: row nowrap;
+ 	justify-content: center;
+}
+
+#navbar-top {
+ 	flex-wrap: nowrap;
+ 	background-color: black;
+ 	box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+ 	position: sticky;
+ 	width: 100%;
+ 	z-index: 500;
+ 	top: 0;
+ 	transition: all 0.3s;
+}
+
+/* Menu dropdown items styling */
+.dropdown-item:hover, .dropdown-item.active {
+	background-color: inherit;
+}
+
+.dropdown-item a {
+	text-decoration: none;
+}
+
+.dropdown-item a:hover {
+    color: #04a3ff; 
+	transition: .3s;
+}
+
+
+#block-gak2023-account-menu .nav {
+	justify-content: end;
+}
+
+/* Frontpage banner styling */
+.banner {
+	height: 85vh;
+	min-height: 500px;
+	background-image: url('https://github.com/tcstenungsund/gak2023/blob/main/design/stockbilder/astronaut-1849401_1280.jpg?raw=true');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	transition: all 0.3s;
+}
+
+.banner h1 {
+	color: #fff;
+	font-size: 5rem;
+	font-family: RadleySans;
+	text-shadow: 4px 4px 1px black;
+	margin-bottom: 0;
+}
+	
+.banner p {
+	color: #004EE0;
+	text-shadow: 2px 2px 4px black;
+	font-size: 2.25rem;
+}
+
+.nav-item {
+ 	padding-left: 1rem;
+ 	padding-right: 1rem;
+ 	font-size: 1.1rem;
+ 	font-weight: 700;
+ 	color: white;
+ }
+
+/* Make the logo clickable only on itself */
+section.region-secondary-menu {
+	display: inline-block;
+	padding-left: 2em;
+}
+
+.navbar-brand img {
+	padding-right: 0.5em;
+	transition: all 0.3s;
+	width: 70%;
+	min-width: 5.25rem;
+}
+
+/* Navbar shrink class that gets added to the logo on scroll by javascript */
+.logo-min {
+	width: 40% !important;
+}
+
+.field__label {
+  font-weight: 700;
+  margin-right: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.field__label::after {
+  content: ":";
+}
+
+.menu-list {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.login-list {
+	margin-left: auto;
+}
+
+/* Homepage info section*/
+.info-div {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  /*height: 100vh*/
+}
+.div-image {
+  background-image: url("https://github.com/tcstenungsund/gak2023/blob/main/design/stockbilder/abstract-2797578_1280.jpg?raw=true");
+  flex: 50%;
+}
+
+.div-content {
+  flex: 50%;
+}
