@@ -11,6 +11,10 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+h3, h4, h5 {
+	text-align: center;
+}
+
 /* Makes the background blue underneath the footer if zommed out or on big screen */
 /*.dialog-off-canvas-main-canvas {
 	height: 100%;
@@ -104,6 +108,10 @@ body {
  	color: white;
  }
 
+.navbar-toggler {
+	background-color: #fff;
+}
+
 /* Make the logo clickable only on itself */
 section.region-secondary-menu {
 	display: inline-block;
@@ -141,11 +149,42 @@ section.region-secondary-menu {
 	margin-left: auto;
 }
 
+.intro {
+	margin-top: 3rem;
+}
+
+/* Sidebar slide in menu styling */
+#offcanvasRight {
+	background-color: #000;
+	transform: 0.3s ease-in-out;
+}
+
+/* Override inline styles, temporary */
+#offcanvasRight .dropdown-menu {
+	position: static !important;
+	transform: none !important;
+}
+
+#offcanvasRight .offcanvas-body {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+/* Style for the label inside the offcanvas menu */
+#offcanvasRightLabel {
+	color: #fff;
+	font-weight: 700;
+	font-size: 1.4rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
 /* Homepage info section*/
 .info-div {
   display: flex;
-  gap: 0.5rem;
-  margin-bottom: 2rem;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
   /*height: 100vh*/
 }
 .div-image {
@@ -155,4 +194,22 @@ section.region-secondary-menu {
 
 .div-content {
   flex: 50%;
+}
+
+
+@media screen and (max-width: 1199px) {
+	#block-gak2023-main-menu ul {
+		flex-flow: column;
+		justify-content: end;
+	}
+
+	.login-list {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.menu-list {
+		margin-right: auto;
+		margin-left: 2rem;
+	}
 }

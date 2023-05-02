@@ -72,8 +72,8 @@
     {# Sidebar hamburger collapse menu #}
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
       <div class="offcanvas-header">
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        <h5 id="offcanvasRightLabel">Göteborgs Astronomiska Klubb</h5>
+        <button type="button" class="btn-close btn-close-white text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        <h5 id="offcanvasRightLabel">GAK</h5>
         <div></div> {# Help with flexbox alignment #}
       </div>
       <div class="offcanvas-body">
@@ -149,12 +149,12 @@
 
                 <section class="intro section">
                     <div class="info-div">
-                      <div class="div-image"></div>
                       <div class="div-content"> {{ drupal_entity('block_content', 1) }} </div>
+                      <div class="div-image"></div>
                     </div>
                     <div class="info-div">
-                      <div class="div-content"> {{ drupal_entity('block_content', 1) }} </div>
                       <div class="div-image"></div>
+                      <div class="div-content"> {{ drupal_entity('block_content', 2) }} </div>
                     </div>
                 </section>
 
