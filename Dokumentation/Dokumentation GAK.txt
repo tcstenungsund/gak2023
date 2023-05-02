@@ -70,7 +70,26 @@ användartester, definera taxonomies, pattern libery, bootstrap tema
 Att göra
 färdigställa moodboard
 
+V.17
 
+påbörjat
+överföra data, programmera hemsidan
+
+gjort
+moodboard
+
+att göra
+överföra data, programmera hemsidan
+
+V.18
+påbörjat
+taxonomies, överföra data, programmera hemsidan
+
+gjort
+taxonomies
+
+att göra
+överföra data, programmera hemsidan, användartester
 
 
 
