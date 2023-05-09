@@ -1,101 +1,98 @@
 V.5-V.6
-Påbörjat 
+Påbörjat: 
 De första veckorna har vi påbörjat att göra moodboards där vi bland annat bestämmer vilka färger och typsnitt vi skall arbeta med på den nya hemsidan. Vi har påbörjat uppstarten av ett repositorie. Vi har börjat bygga upp exempel på wireframes. Vi har även gjort en sitemap för hur sidan ser ut i första läget och börjat på att skissa upp en sitemap för hur den nya sakll se ut. 
-Gjort
+
+Gjort:
 Vi har färdigställt den gamla sitemapen för hemsidan för att lokalisera hur den är uppbyggd och utifrån detta kunna bygga upp en ny sitemap. Vi har även skapat ett repositorie för gruppen där vi skall arbeta. 
 Att göra inför nästa lektion
 De kommande två veckorna skall vi forsätta med att färdigställa vår moodboard, den nya sitemapen och wireframes. 
 
 
 V.8
-Påbörjat
-Fortsatt arbete med wireframes, den nya sitemapen, moodboard och definerar content types och kategoriserar innehållet
+Påbörjat:
+Fortsatt arbete med wireframes, den nya sitemapen, moodboard och definerar content types och kategoriserar innehållet.
 
-Gjort
-inget avslutat denna veckan
+Gjort:
+Inget avslutat denna veckan.
 
-Att göra inför nästa lektion
+Att göra inför nästa lektion:
 jobba vidare med det vi påbörjat!
 
 
 V.10
 
-Påböjat
+Påböjat:
 Börjat konstruera en ny logga, fortsatt arbete med färgschema, wireframes, moodboard.
 
-Gjort
-inget som blev helt klart
+Gjort:
+Inget som blev helt klart.
 
-Att göra
-göra klart loggan, färgschema, wireframes, moodboard, hitta stock-bilder, skapa ett bootstrap-tema, skapa ett pattern library, definera taxonomies.
+Att göra:
+Göra klart loggan, färgschema, wireframes, moodboard, hitta stock-bilder, skapa ett bootstrap-tema, skapa ett pattern library, definera taxonomies.
 
 V.11
 
-Påbörjat
-stock-bilder
+Påbörjat:
+Stock-bilder.
 
-Gjort
-Loggan är klar, 
+Gjort:
+Loggan är klar. 
 
-Att göra
-färgschema, wireframes, moodboards, skapa ett bootstrap-tema, definera taxonomies, pattern library
+Att göra:
+Färgschema, wireframes, moodboards, skapa ett bootstrap-tema, definera taxonomies, pattern library.
 
 V.12
 
-Påbörjat
-Pattern library, definera taxonomies
+Påbörjat:
+Pattern library, definera taxonomies.
 
-Gjort
-Färgschema, bootstrap-tema, stock-bilder
+Gjort:
+Färgschema, bootstrap-tema, stock-bilder.
 
-Att göra
-moodboards
+Att göra:
+Moodboards.
 
 V.14
 
-Påbörjat
-Moodboard, skapa content types i drupal, flytatt block regions
+Påbörjat:
+Moodboard, skapa content types i drupal, flytatt block regions.
 
-Gjort
-wireframes, småfix
+Gjort:
+Wireframes, småfix.
 
-Att göra
-bestämma vilket färgschema vi ska använda
-färdigställa moodboard
+Att göra:
+Bestämma vilket färgschema vi ska använda
+färdigställa moodboard.
 
 V.16
-pågörjat 
-användartester, definera taxonomies, pattern libery, bootstrap tema
+Påbörjat: 
+Användartester, definera taxonomies, pattern libery, bootstrap tema.
 
-Att göra
-färdigställa moodboard
+Att göra:
+Färdigställa moodboard.
 
 V.17
 
-påbörjat
-överföra data, programmera hemsidan
+Påbörjat:
+Överföra data, designa och skriva CSS för nya hemsidan.
 
-gjort
-moodboard
+Gjort:
+Moodboard.
 
-att göra
-överföra data, programmera hemsidan
+Att göra:
+Överföra data, designa och skriva CSS för nya hemsidan.
 
 V.18
-påbörjat
-taxonomies, överföra data, programmera hemsidan
+Påbörjat:
+Taxonomies, överföra data,  designa och skriva CSS för hemsidan.
 
-gjort
-taxonomies
+Gjort:
+Taxonomies.
 
-att göra
-överföra data, programmera hemsidan, användartester
+Att göra:
+Överföra data, designa och skriva CSS för hemsidan, användartester.
 
+V.19
 
-
-
-
-
-
-
-
+Att göra:
+Överföra data, designa och skriva CSS för hemsidan, användartester. 
