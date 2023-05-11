@@ -96,3 +96,5 @@ V.19
 
 Att göra:
 Överföra data, designa och skriva CSS för hemsidan, användartester. 
+
+Den ända datan som inte är överförd är Aurora och Länkar.
