@@ -31,16 +31,16 @@ h3, h4, h5 {
 }*/
 
 /* Navbar styling */
-#block-gak2023-main-menu .nav-link {
+.menu-list .nav-link {
 	color: white;
   	white-space: nowrap;
 }
 
-#block-gak2023-main-menu .nav-link:hover {
+.menu-list .nav-link:hover {
 	color: #bbb;
 }
 
-#block-gak2023-main-menu ul {
+.menu-list ul {
  	flex-flow: row nowrap;
  	justify-content: center;
 }
@@ -198,7 +198,7 @@ section.region-secondary-menu {
 
 
 @media screen and (max-width: 1199px) {
-	#block-gak2023-main-menu ul {
+	.menu-list ul {
 		flex-flow: column;
 		justify-content: end;
 	}
