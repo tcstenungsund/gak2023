@@ -93,6 +93,8 @@ Att göra:
 Överföra data, designa och skriva CSS för hemsidan, användartester.
 
 V.19
+påbörjat: 
+Göra en footer navbar och en senaste nytt view.
 
 Att göra:
 Överföra data, designa och skriva CSS för hemsidan, användartester. 
