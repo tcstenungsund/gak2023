@@ -1,10 +1,14 @@
 V.5-V.6
 Påbörjat: 
-De första veckorna har vi påbörjat att göra moodboards där vi bland annat bestämmer vilka färger och typsnitt vi skall arbeta med på den nya hemsidan. Vi har påbörjat uppstarten av ett repositorie. Vi har börjat bygga upp exempel på wireframes. Vi har även gjort en sitemap för hur sidan ser ut i första läget och börjat på att skissa upp en sitemap för hur den nya sakll se ut. 
+De första veckorna har vi påbörjat att göra moodboards där vi bland annat bestämmer vilka färger och typsnitt vi skall arbeta med på den nya hemsidan. 
+Vi har påbörjat uppstarten av ett repositorie. Vi har börjat bygga upp exempel på wireframes. 
+Vi har även gjort en sitemap för hur sidan ser ut i första läget och börjat på att skissa upp en sitemap för hur den nya sakll se ut. 
 
 Gjort:
-Vi har färdigställt den gamla sitemapen för hemsidan för att lokalisera hur den är uppbyggd och utifrån detta kunna bygga upp en ny sitemap. Vi har även skapat ett repositorie för gruppen där vi skall arbeta. 
-Att göra inför nästa lektion
+Vi har färdigställt den gamla sitemapen för hemsidan för att lokalisera hur den är uppbyggd och utifrån detta kunna bygga upp en ny sitemap. 
+Vi har även skapat ett repositorie för gruppen där vi skall arbeta. 
+
+Att göra inför nästa lektion:
 De kommande två veckorna skall vi forsätta med att färdigställa vår moodboard, den nya sitemapen och wireframes. 
 
 
