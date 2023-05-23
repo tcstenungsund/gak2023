@@ -20,12 +20,15 @@ body {
 
 h3, h4, h5 {
 	text-align: center;
+
 }
 
 h2, .title {
 	font-size: 2.5rem;
+	font-family: 'Simplifica', 'Bitter Regular', 'Open Sans', sans-serif;
 }
 
+/* Make the images in Aurora horizontal */
 .field--name-field-image {
 	display: flex;
 	gap: 1rem;
@@ -41,10 +44,6 @@ h2, .title {
 	min-height: 300px;
 	padding-top: 1rem;
 }
-/*
-.row {
-	margin-right: 0; Makes the website not scrollale sideways
-}*/
 
 /* Navbar styling */
 .menu-list .nav-link, .navbar-nav .nav-link.active {
@@ -52,8 +51,12 @@ h2, .title {
   	white-space: nowrap;
 }
 
-.menu-list .nav-link:hover {
+a:hover, .menu-list .nav-link:hover {
 	color: #bbb;
+}
+
+a {
+	color: #0d6efd;
 }
 
 .menu-list ul {
@@ -78,6 +81,7 @@ h2, .title {
 }
 
 .dropdown-item a {
+	color: black;
 	text-decoration: none;
 }
 
@@ -95,7 +99,7 @@ h2, .title {
 .banner {
 	height: 85vh;
 	min-height: 500px;
-	background-image: url('https://github.com/tcstenungsund/gak2023/blob/main/design/stockbilder/astronaut-1849401_1280.jpg?raw=true');
+	background-image: url('../images/banner.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -105,13 +109,12 @@ h2, .title {
 .banner h1 {
 	color: #fff;
 	font-size: 5rem;
-	font-family: RadleySans;
 	text-shadow: 4px 4px 1px black;
 	margin-bottom: 0;
 }
 	
 .banner p {
-	color: #004EE0;
+	color: #FFCC33;
 	text-shadow: 2px 2px 4px black;
 	font-size: 2.25rem;
 }
@@ -233,8 +236,13 @@ table tr th {
 
 
 .div-image {
-  background-image: url("https://github.com/tcstenungsund/gak2023/blob/main/design/stockbilder/abstract-2797578_1280.jpg?raw=true");
-  flex: 50%;
+	background-image: url("../images/blue_sky.jpg");
+	flex: 50%;
+	border-radius: 1rem;
+}
+
+.div-image:nth-of-type(2) {
+	background-image: url("../images/red_sky.jpg");
 }
 
 .div-content {
