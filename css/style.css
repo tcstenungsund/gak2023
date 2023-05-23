@@ -3,16 +3,32 @@
  * Subtheme specific CSS.
  */
 
+@font-face {
+    font-family: 'Bitter Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bitter Regular'), url('../fonts/Bitter-Regular.woff') format('woff');
+}
+
 html, body {
 	height: 100vh;
 }
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Bitter Regular', 'Open Sans', sans-serif;
 }
 
 h3, h4, h5 {
 	text-align: center;
+}
+
+h2, .title {
+	font-size: 2.5rem;
+}
+
+.field--name-field-image {
+	display: flex;
+	gap: 1rem;
 }
 
 /* Makes the background blue underneath the footer if zommed out or on big screen */
@@ -31,7 +47,7 @@ h3, h4, h5 {
 }*/
 
 /* Navbar styling */
-.menu-list .nav-link {
+.menu-list .nav-link, .navbar-nav .nav-link.active {
 	color: white;
   	white-space: nowrap;
 }
@@ -71,7 +87,7 @@ h3, h4, h5 {
 }
 
 
-#block-gak2023-account-menu .nav {
+#block-gak2023-account-menu .nav, #block-gak2023-account-menu--2 .nav {
 	justify-content: end;
 }
 
@@ -108,8 +124,24 @@ h3, h4, h5 {
  	color: white;
  }
 
+.navbar-nav .nav-link.active {
+	color: white;
+}
+
+.view a {
+	color: #0071b3;
+}
+
+.view a:hover {
+	color: #018fe2;
+}
+
 .navbar-toggler {
 	background-color: #fff;
+}
+
+.navbar-toggler-icon {
+	background-image: var(--bs-navbar-toggler-icon-bg);
 }
 
 /* Make the logo clickable only on itself */
@@ -184,9 +216,22 @@ section.region-secondary-menu {
 .info-div {
   display: flex;
   gap: 1.5rem;
+  min-height: 25rem;
+  max-width: 1250px;
+  margin: 0 auto;
   margin-bottom: 3rem;
   /*height: 100vh*/
 }
+
+.table-responsive {
+	margin-bottom: 3rem;
+}
+
+table tr th {
+	background-color: rgba(0, 0, 0, 0.51) !important;
+}
+
+
 .div-image {
   background-image: url("https://github.com/tcstenungsund/gak2023/blob/main/design/stockbilder/abstract-2797578_1280.jpg?raw=true");
   flex: 50%;
